@@ -2,7 +2,7 @@
 I customized a slider code from web for a personal presentation.
 
 ## How to use
-You can use the structure below to create slide item and put you contents (Title, texts and images...)
+You can use the structure below to create slide item and put your contents (Title, texts and images...)
 
 ```
 <div class="slide">
